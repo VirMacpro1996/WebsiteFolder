@@ -616,8 +616,8 @@ footer .wrapper { text-align: center; }
       color: var(--foreground-secondary);
       font-size: var(--fs-4);
       display: -webkit-box;
-      line-clamp: 3;
-      -webkit-line-clamp: 3;
+      line-clamp: 20;
+      -webkit-line-clamp: 20;
       -webkit-box-orient: vertical;
       overflow: hidden;
       margin-bottom: 1rem;
